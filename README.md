@@ -28,3 +28,15 @@ A curated collection of LeetCode problems solved during my Data Structures & Alg
 ## 🛠️ Setup & Environment
 - **Languages**: C (C11), C++ (C++17)
 - **Tooling**: VS Code, GCC / G++
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sahubhavna012-code/Leetcode-Questions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sahubhavna012-code/Leetcode-Questions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
