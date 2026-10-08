@@ -35,8 +35,17 @@ A curated collection of LeetCode problems solved during my Data Structures & Alg
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahubhavna012-code/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/sahubhavna012-code/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahubhavna012-code/Leetcode-Questions/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sahubhavna012-code/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sahubhavna012-code/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
